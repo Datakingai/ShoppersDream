@@ -1,2 +1,21 @@
 # ShoppersDream
 An AI-powered API that cuts through flashy branding and marketing hype to find the absolute best product value. By analyzing the raw data, it saves shoppers hours of research and delivers the best possible product for their money.
+
+I shop on Amazon quite frequiently and am constantly bombarded with unknown brand names, trouble deciding one item because its cheapeer than another(but with my app you might find out that the cheaper one with a unknown brandname is actually a better choice for performance, price and your precious time) everything from gaming chairs, desktops, laptops, phones, headphones, hunting knives, flash lights, lighters, desks, beds, futons, lights, jewelery, bikes, backpacks and so on, the list goes on forever and I know people all around the world waste hours deciding which one to buy and most of them go for the more expensive brand name they know.. and the sad thing is that they are probably getting a worst deal than buying the unknown brandname that is half the price and they could find out the WHY(which is very important here) in less than a minute, saving them time, money and frustration all by using my APP, let me give you a demonstration of what I mean:
+
+I am looking at computer chairs(mainly gaming/racing) because I play WoW ALOT and the chair I have is horrible so I looked and looked for about 2 hours to find the cheapest best looking one, then I found one that I liked more but instead of 100$ its 150$, THEN i see one almost the same for 220$ as the 150$ one and lastly I then find a Corsair gaming chair for 300$ and automatically I am out see how great this one is because its one of my favourite brand names.. Only to find out that the Corsair chair for 300$ is about as good as the chair for 100$ and so is the 220$ gaming chair I previously looked at.. same as the 100$ one.
+
+Now this is all Gemini finding out the quirks and ins/outs of each of the chairs for me and saving me so much time and she tells me the 150$ unknown brand one is the best one by far for a few reasons that I dont need to go into here but Gemini was correct and if I was the type to buy the brand name chair I might aswell of just flushed 200$ down the toilet because the Corsair chair was equal to the 100$ unknown brand gaming chair so basically by utilitizing Gemini in certain ways I was able to get the nitty gritty garbage and time wasting part out of the way in minutes and ontop of it I would not only get a much better longer lasting product but I also might of saved 150$ depending on if I was the type of person to buy the Corsair gaming chair for 300$.
+
+Millions of people must shop on Amazon everyday and run into issues like this at every turn in theyre search for the best item for the best price for the best quality and its not easy, especially when you have to read through so so much just to find out and half the stuff you might not even understand properly and for anyone whos shopped on Amazon knows that for every item there is 5 more items of the same item with different brand names and different micro specs and different prices so what I want this project to do is to make shopping easier for the shopper and in many many ways and I am not just talking about some bot scrapping garbage can of an app here, what my app or "our" app is going to tell you is going to change your life if you shop online for most of your things and are constantly wrestling with yourself on which item to choose, heck this might even save you from buying an item you dont even want but you THINK you want because it sounds like what you are looking for, not what your actually looking for.
+
+Lastly, there has to be so many items with these issues so my APP is going to make your decisions for you based on:
+
+1.Price
+2.Quality
+
+and then its going to:
+
+3.Save you so much time, so much time that you can order your item, know you got the best item you could and go play with your kids for an hour before bed because my APP saved you an hour of searching through page after page after page looking for the best of something for price and quality over precious time, its that simple.
+
+I start on 2026-05-27, this will be my first real true project that I am very anxious to start and feeling great about, I had a unbelievably great day and I believe this is how the day is suppose to end(2026-05-26).
