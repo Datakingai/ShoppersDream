@@ -1,3 +1,4 @@
+# Required packages: pip install requests beautifulsoup4
 import requests
 import json
 from bs4 import BeautifulSoup
