@@ -19,3 +19,7 @@ and then its going to:
 3.Save you so much time, so much time that you can order your item, know you got the best item you could and go play with your kids for an hour before bed because my APP saved you an hour of searching through page after page after page looking for the best of something for price and quality over precious time, its that simple.
 
 I start on 2026-05-27, this will be my first real true project that I am very anxious to start and feeling great about, I had a unbelievably great day and I believe this is how the day is suppose to end(2026-05-26).
+
+2026-05-28 UPDATE
+
+I Have added the backend.py to the respository and got the start of an APP going, its really not much but its progress and progress must be tracked as much as possible, next will be adding Geminis API and a few other APIs.
